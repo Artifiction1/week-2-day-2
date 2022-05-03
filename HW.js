@@ -11,37 +11,39 @@ ASSIGNMENT RULES
 /* EXERCISE 1
  Enumerate and describe the main datatypes in JavaScript. Try to explain the concepts as you were speaking to a 12 years old.
 */
-
+console.log("\nexercise 1 \n")
  console.info("Boolean- it's just a yes or no answer to a question u ask. are your eyes red or blue. Did you do your homework. it answers with yes'true' or no 'false'.\n", "Number - it's just a value shown by a number it can be big, it can be small, but it's always a number.\n", "String- it's what you use when you want to use words or text in your code. Your name is a string data.", "null - it's when something has no value. undefined - when something hasn't been given a value.\n",)
 
 /* EXERCISE 2
  Try to describe what a variable is, in your own words.
 */
-
+console.log("\nexercise 2 \n")
 console.info("variable - it's a container for the value that I'll use in the program or just save for data.")
 
 /* EXERCISE 3
  Write the code to execute an addition (a sum) of the numbers 12 and 20.
 */
-
-console.log("sun=",12+20)
+console.log("\nexercise 3 \n")
+console.log("sum=",12+20)
 
 /* EXERCISE 4
  Create a variable named x and assign to it the number 12.
 */
-
+console.log("\nexercise 4 \n")
 let x = 12
+console.log("x=",x)
 
 /* EXERCISE 5
  Create a variable called name and assign to it the string "John Doe".
 */
-
+console.log("\nexercise 5 \n")
 let name = "John Doe"
+console.log(name)
 
 /* EXERCISE 6
  Execute a subtraction between the number 12 and the variable x you declared before (which is storing the value 12).
 */
-
+console.log("\nexercise 6 \n")
 console.log("12-","x=",12-x)
 
 /* EXERCISE 7

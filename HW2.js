@@ -98,7 +98,7 @@ let low = 0
 /* EXTRA 5
  Write a piece of code for finding the average of two given integers.
 */
-
+console.log("\n exercise 5 \n")
 x = 8
 y = 9
 avg = (x+y)/2
@@ -119,19 +119,22 @@ avg = (x+y)/2
  Write a piece of code for calculating a certain percentage of a given number.
  (Ex.: the 20% of 400 is 80)
 */
-
-/* WRITE YOUR ANSWER HERE */
-
+console.log("\n exercise 8 \n")
+x = 150
+y = 20
+percentage = (x/100)*20
+console.log(y+"% of",x,"=",percentage)
 /* EXTRA 9
  Write a piece of code for checking if a given number is even or odd.
 */
-
-x = 8
+console.log("\n exercise 9 \n")
+x = 7
 evenOrOdd = x%2
-if(evenOrOdd=0)
-{console.info(even)}
+console.info(evenOrOdd)
+if(evenOrOdd === 0)
+{console.info("even")}
 else {
-    console.info(odd)
+    console.info("odd")
 }
 
 /* WHEN YOU ARE FINISHED

@@ -99,7 +99,9 @@ let low = 0
  Write a piece of code for finding the average of two given integers.
 */
 
-/* WRITE YOUR ANSWER HERE */
+x = 8
+y = 9
+avg = (x+y)/2
 
 /* EXTRA 6
  Write a piece of code for finding the longest of two given strings.

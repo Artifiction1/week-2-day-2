@@ -126,7 +126,13 @@ avg = (x+y)/2
  Write a piece of code for checking if a given number is even or odd.
 */
 
-
+x = 8
+evenOrOdd = x%2
+if(evenOrOdd=0)
+{console.info(even)}
+else {
+    console.info(odd)
+}
 
 /* WHEN YOU ARE FINISHED
  Upload the .js file on Eduflow before 5PM CET. In the next days we'll also learn how to use GIT!
